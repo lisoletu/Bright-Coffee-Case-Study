@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a data analytics case study focused on analysing **Bright Coffee Shop's sales data across three stores** to generate insights that support revenue growth and improved store and product performance.
+This project is a data analytics case study focused on analysing Bright Coffee Shop's sales data across three stores to generate insights that support revenue growth and improved store and product performance.
 
 The analysis explores product performance, revenue, sales volumes, and sales patterns across different time intervals to help the CEO make data-driven business decisions.
 
@@ -11,7 +11,7 @@ The analysis explores product performance, revenue, sales volumes, and sales pat
 - Identify which products generate the most revenue
 - Determine the store's peak sales periods
 - Analyse sales trends across products and time intervals
-- Compare performance across the **three Bright Coffee stores**
+- Compare performance across the three Bright Coffee stores
 - Identify opportunities to improve sales performance
 - Provide data-driven recommendations to support business decisions
 
