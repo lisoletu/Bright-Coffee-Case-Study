@@ -65,7 +65,7 @@ SQL and Databricks were used to:
 
 ## 💡 Business Outcome
 
-The analysis was used to identify **store and product performance, sales patterns, peak trading periods, and opportunities to improve revenue**.
+The analysis was used to identify store and product performance, sales patterns, peak trading periods, and opportunities to improve revenue.
 
 The findings were translated into data-driven business recommendations to support decisions around marketing, inventory, product promotion, and sales performance across the three stores.
 
