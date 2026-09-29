@@ -55,4 +55,3 @@ FROM cleaned_BrightCoffee_sales_data; ---149116
 SELECT
     SUM(total_amount) AS total_revenue
 FROM cleaned_BrightCoffee_sales_data; ---698812.33
-
