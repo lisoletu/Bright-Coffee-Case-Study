@@ -71,7 +71,6 @@ The findings were translated into data-driven business recommendations to suppor
 
 ## 📁 Repository Contents
 
-This repository contains:
 This repository contains the Raw dataset, Project Requirement document, Project Planning and Timeline document, SQL analysis, Excel file, dashboards, and final presentation developed as part of the Bright Coffee Sales case study.
 
 ## 👩🏽‍💻 Author
